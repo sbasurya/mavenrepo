@@ -44,7 +44,7 @@ div.ex {
 					<td><input type="text" name="yop"/></td>
 				</tr>
 				<tr>
-					<td>Date of birth</td>
+					<td>Date of Birth</td>
 					<td><input type="text" name="yop"/></td>
 				</tr>
 			</table>
